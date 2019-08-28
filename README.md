@@ -13,6 +13,7 @@ Computer Vision Paper Reading for ISCAS
 
 # Group Information
 |组次|      主讲人                 | 负责人 | 
+| - | ----- |  ----- |
 |A|	王佳欣	| 杜肖冰 |	吴通通 |	程坚 | 曲文天 |
 | - | ----- | ------ | ----- | :-:   | -----|
 | B | 刘舫	| 张拯明	| 曲文天 |	陈科圻 | 曲文天 |
